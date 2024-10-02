@@ -22,7 +22,7 @@ This project implements an advanced ERC20 token contract that incorporates staki
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/jaydxyz/advanced-erc20-token-with-staking-governance.git
+git clone https://github.com/jayinmt/advanced-erc20-token-with-staking-governance.git
 ```
 
 2. Install the required dependencies:
